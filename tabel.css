@@ -1,0 +1,16 @@
+body {
+     background: url(pemandangan-pegunungan-dengan-kabut_1150-18328.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+table {
+     border: 1px solid;
+}
+
+table,
+tr,
+td {
+     border: 1px solid;
+     padding: 15px;
+}
